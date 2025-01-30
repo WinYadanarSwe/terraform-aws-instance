@@ -52,4 +52,4 @@ terraform-aws-instance/
 👨‍💻 Author
 - Win Yadanar Swe(Jewel)  
 - GitHub: WinYadanarSwe(https://github.com/WinYadanarSwe)
-- LinkedIn: Win Yadanar Swe(https://www.linkedin.com/in/your-profile)
+- LinkedIn: Win Yadanar Swe(https://www.linkedin.com/in/win-yadanar-swe-jewel-3ba2bb185/)
